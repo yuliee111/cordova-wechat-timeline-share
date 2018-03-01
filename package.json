@@ -1,0 +1,27 @@
+{
+  "name": "yuliee111",
+  "version": "0.1.0",
+  "description": "plugin add package.json",
+  "cordova": {
+    "id": "cordova-wechat-timeline-share",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuliee111/cordova-wechat-timeline-share.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuliee111/cordova-wechat-timeline-share/issues"
+  },
+  "homepage": "https://github.com/yuliee111/cordova-wechat-timeline-share#readme"
+}
